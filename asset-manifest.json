@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/simpplr-assessment.git/static/css/main.5bdea7ee.chunk.css",
+    "main.js": "/simpplr-assessment.git/static/js/main.73783acd.chunk.js",
+    "main.js.map": "/simpplr-assessment.git/static/js/main.73783acd.chunk.js.map",
+    "runtime-main.js": "/simpplr-assessment.git/static/js/runtime-main.ef84a960.js",
+    "runtime-main.js.map": "/simpplr-assessment.git/static/js/runtime-main.ef84a960.js.map",
+    "static/css/2.a2b3c641.chunk.css": "/simpplr-assessment.git/static/css/2.a2b3c641.chunk.css",
+    "static/js/2.92c81f40.chunk.js": "/simpplr-assessment.git/static/js/2.92c81f40.chunk.js",
+    "static/js/2.92c81f40.chunk.js.map": "/simpplr-assessment.git/static/js/2.92c81f40.chunk.js.map",
+    "index.html": "/simpplr-assessment.git/index.html",
+    "precache-manifest.45e0d6889f5f2dce75b9ca3a10da4184.js": "/simpplr-assessment.git/precache-manifest.45e0d6889f5f2dce75b9ca3a10da4184.js",
+    "service-worker.js": "/simpplr-assessment.git/service-worker.js",
+    "static/css/2.a2b3c641.chunk.css.map": "/simpplr-assessment.git/static/css/2.a2b3c641.chunk.css.map",
+    "static/css/main.5bdea7ee.chunk.css.map": "/simpplr-assessment.git/static/css/main.5bdea7ee.chunk.css.map",
+    "static/js/2.92c81f40.chunk.js.LICENSE.txt": "/simpplr-assessment.git/static/js/2.92c81f40.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ef84a960.js",
+    "static/css/2.a2b3c641.chunk.css",
+    "static/js/2.92c81f40.chunk.js",
+    "static/css/main.5bdea7ee.chunk.css",
+    "static/js/main.73783acd.chunk.js"
+  ]
+}
